@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\friendly-parakeet-main"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\Class Materials\\UNCC-VIRT-BO-FSF-PT-07-2022-U-B-main\\03-JavaScript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Mod 3 challenge"
+	}
+}
